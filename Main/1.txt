@@ -1,0 +1,13 @@
+Question:1 -->
+        What is the order of growth of the solution to the Quicksort-like recurrence F N = N^2 + 1/N ∑ 1≤k≤N  (F k-1 + F N-k ) with F0 = 0 ?
+​Answer: N^2
+
+-----------------------------------------------------------------------------------------------
+Question:2 -->
+    Which of the following is a drawback to analyzing algorithms by proving O- upper bounds on the worst case?
+    a. Input model may be unrealistic.
+    b. Likely to be too much detail in the analysis.
+    c.Generally cannot be used to predict performance.
+    d.Generally cannot be used to compare algorithms.
+Answer:
+    c and d

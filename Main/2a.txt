@@ -1,0 +1,9 @@
+Question:1 ---> Solve the recurrence a n = n * a n-1 + n! for n>0 with a 0 = 1. Give a simple expression for a n.
+    a. n! + (n−1)!
+    b. (2n)!
+    c. 2n!
+    d. n!
+    e. (n+1)!
+
+Answer:
+    e. (n+1)!

@@ -1,0 +1,4 @@
+Question:1 ---> Suppose that a n =2a ⌊n/3⌋+n for n>2 with a 0 = a 1 = a 2 = 1 .  What is the order of growth of a n?
+
+Answer --> Θ(n) 
+        Using Master Theorem

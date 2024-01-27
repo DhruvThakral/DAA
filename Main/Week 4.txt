@@ -3,3 +3,6 @@ Answer: 1 - 1/N + O(1 /N^2)
 
 Question 2 ---> Which of the following has approximate value 1.64463?
 Answer : ( 1.01 ) ^ 50
+
+        Another Question: Which of the following has approximate value 1.62889?
+                Answer: ( 1.05 ) ^ 10         

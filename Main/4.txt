@@ -1,0 +1,5 @@
+Question 1---> Which of the following is an asymptotic expansion of (1 + 1/N)^(-1) ? 
+Answer: 1 - 1/N + O(1 /N^2) 
+
+Question 2 ---> Which of the following has approximate value 1.64463?
+Answer : 

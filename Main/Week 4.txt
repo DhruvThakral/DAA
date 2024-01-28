@@ -4,7 +4,20 @@ Answer: 1 - 1/N + O(1 /N^2)
 Question 2 ---> Which of the following has approximate value 1.64463?
 Answer : ( 1.01 ) ^ 50
 
-        Another Question: Which of the following has approximate value 1.62889?
-                Answer: ( 1.05 ) ^ 10         
-        Another Question: Which of the following has approximate value 1.10462?
-                Answer:  ( 1.01 )  ^  10
+        
+Another: 
+Functions	                Asymptotic expansion
+H N	                        ln N + γ + 1 ⁄ 2N + O( 1 ⁄ N2)
+exp(H 2N - H N) - 1	        1 - 1 ⁄ 2N + O( 1 ⁄ N2)
+exp(H N)	                N + O(1)
+exp( 1 ⁄ N)	                1 + 1 ⁄ N + O( 1 ⁄ N2)
+(1 + 1 ⁄ N) ^ (-1)	        1 - 1 ⁄ N + O( 1 ⁄ N2)
+
+
+Another:
+Expression	        value
+(1.01) ^ 10	        1.10462
+(1.05) ^ 10	        1.62889
+(1.01) ^ 20	        1.22019
+(1.01) ^ 50	        1.64463
+(1.01) ^ 100	        2.70481

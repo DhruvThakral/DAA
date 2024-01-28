@@ -6,3 +6,5 @@ Answer : ( 1.01 ) ^ 50
 
         Another Question: Which of the following has approximate value 1.62889?
                 Answer: ( 1.05 ) ^ 10         
+        Another Question: Which of the following has approximate value 1.10462?
+                Answer:  ( 1.01 )  ^  10

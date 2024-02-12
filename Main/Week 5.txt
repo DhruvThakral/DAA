@@ -1,0 +1,6 @@
+Q.1 Which of these constructions defines the set of all binary strings?
+
+Answer:- B = E + (Z0 - Z1) X B
+Q.2 What is the approximate value of [zn] 1 ⁄ (1 - 2z)(1 - 3z) ?
+
+Answer:- 3n+1

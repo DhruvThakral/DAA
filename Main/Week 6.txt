@@ -1,0 +1,11 @@
+Q.1 Which of the following constructions defines the Motzkin (unary-binary) trees?
+
+Answer:- M = Z + Z X M + Z X M X M
+
+Q.2 Of the following, which are the least numerous, for a given (large) number of nodes?
+
+Answer:- unordered trees
+
+Q.3 Of the following, which are the most numerous, for a given (large) number of nodes?
+
+Answer:- 3-ary trees
